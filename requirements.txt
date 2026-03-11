@@ -1,0 +1,6 @@
+telethon
+rich
+python-dotenv
+aiofiles
+streamlit
+nest_asyncio
